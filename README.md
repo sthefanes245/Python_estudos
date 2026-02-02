@@ -3,7 +3,7 @@
 Bem-vindo(a) ao meu repositório de aprendizado! Aqui registro minha evolução na linguagem Python, começando do absoluto zero, explorando conceitos fundamentais e resolvendo desafios de lógica.
 
 ## 🚀 Objetivo
-O foco deste repositório é consolidar o conhecimento teórico através da prática, documentando cada etapa da minha jornada como estudante de Ciência da Computação.
+O foco deste repositório é consolidar o conhecimento teórico através da prática, documentando cada etapa da minha jornada como estudante de Sistemas de Informação.
 
 ## 📂 Estrutura do Repositório
 
